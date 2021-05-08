@@ -2,7 +2,7 @@ package day_2021_05_08;
 
 import java.util.Arrays;
 
-public class K번째수 {
+public class P1_K번째수 {
 
 	/**
 	 * 와! 모범 답안하고 완전 똑같이 풀었어!
