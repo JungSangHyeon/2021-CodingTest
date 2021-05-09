@@ -1,12 +1,15 @@
 package day_2021_05_09;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 
 public class P2_다리를_지나는_트럭 {
 
+	/**
+	 * 코드가 좀 길지 않나 싶었는데 모범 답안과 같다!
+	 *  
+	 */
 	public static void main(String[] args) {
 		System.out.println(solution(2, 10, new int[] {7, 4, 5, 6}));
 		System.out.println(solution(100, 100, new int[] {10}));
