@@ -1,6 +1,6 @@
 package day_2021_05_08;
 
-import java.util.Arrays; 
+import java.util.Arrays;  
 import java.util.Comparator;
 
 public class P2_가장_큰_수 {

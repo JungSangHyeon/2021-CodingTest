@@ -1,6 +1,6 @@
 package day_2021_05_09;
 
-import java.util.Arrays;
+import java.util.Arrays; 
 import java.util.Collections;
 
 public class P1_H_Index {
