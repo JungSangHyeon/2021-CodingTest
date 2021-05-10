@@ -9,14 +9,15 @@ public class P5_신규_아이디_추천 {
 	 *  
 	 *  다른 사람 코드 보니 456도 정규표현식으로 가능하다.
 	      temp = temp.replaceAll("[.]{2,}","."); // ... ->.
-          temp = temp.replaceAll("^[.]|[.]$",""); // 처음 또는 마지막이 . 이면 제거
+          temp = temp.replaceAll("^[.]|[.]$",""); // 처음 또는 마지막이 . 이면 제거 "^regex", "regex$" regex로 시작, 끝 나는가>
           if(temp.length() >=16){
               temp = temp.substring(0,15);
               temp=temp.replaceAll("^[.]|[.]$","");
           }
 	 */
 	public static void main(String[] args) {
-		System.out.println(solution("...!@BaT#*..y.abcdefghijklm"));
+		System.out.println("..asd..".replaceAll("^[.]|[.]$",""));
+//		System.out.println(solution("...!@BaT#*..y.abcdefghijklm"));
 	}
 
 	public static String solution(String new_id) {
