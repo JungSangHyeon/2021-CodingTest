@@ -1,9 +1,9 @@
-package day_2021_05_10;
+package year_2021.month_05.day_10;
 
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class P2_전화번호_목록 { // 11번째!
+public class P11_전화번호_목록 { // 11번째!
 
 	/**
 	 * 해시가 익숙치 않아서인가 좀 모르겠네 

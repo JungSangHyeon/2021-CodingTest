@@ -1,6 +1,6 @@
-package day_2021_05_09;
+package year_2021.month_05.day_09;
 
-public class P5_신규_아이디_추천 {
+public class P9_신규_아이디_추천 {
 
 	/**
 	 * 배운 것.

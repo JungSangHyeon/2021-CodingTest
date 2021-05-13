@@ -1,4 +1,4 @@
-package day_2021_05_11;
+package year_2021.month_05.day_11;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map.Entry;
 
-public class P2_베스트앨범 {
+public class P13_베스트앨범 {
 
 	/**
 	 * 너무 길다 싶었는데 뭐 나쁘지 않은 듯. 다들 나보다 한참 길게 썼넹

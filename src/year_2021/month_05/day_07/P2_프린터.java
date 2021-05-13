@@ -1,4 +1,4 @@
-package day_2021_05_07;
+package year_2021.month_05.day_07;
 
 import java.util.Arrays; 
 import java.util.LinkedList;

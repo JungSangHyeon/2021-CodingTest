@@ -1,9 +1,9 @@
-package day_2021_05_12;
+package year_2021.month_05.day_12;
 
 import java.util.ArrayList;
 import java.util.stream.IntStream;
 
-public class P1_모의고사 {
+public class P15_모의고사 {
 
 	/**
 	 * 나쁘지 않은 답 인 것 같넹

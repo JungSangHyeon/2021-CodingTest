@@ -1,8 +1,8 @@
-package day_2021_05_09;
+package year_2021.month_05.day_09;
 
 import java.util.Arrays;
 
-public class P3_주식가격 {
+public class P7_주식가격 {
 
 	/**
 	 * 이번에도 모범 답안과 똑같이 풀었다.

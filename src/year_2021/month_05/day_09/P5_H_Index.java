@@ -1,9 +1,9 @@
-package day_2021_05_09;
+package year_2021.month_05.day_09;
 
 import java.util.Arrays; 
 import java.util.Collections;
 
-public class P1_H_Index {
+public class P5_H_Index {
 
 	/**
 	 * 새로 배운 코드는 딱히 없고, 몇 문제 풀어본 것을 활용하여 풀었다.

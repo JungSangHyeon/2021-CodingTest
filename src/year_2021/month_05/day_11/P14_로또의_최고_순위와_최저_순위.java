@@ -1,10 +1,10 @@
-package day_2021_05_11;
+package year_2021.month_05.day_11;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.LongStream;
 
-public class P3_로또의_최고_순위와_최저_순위 {
+public class P14_로또의_최고_순위와_최저_순위 {
 
 	/**
 	 * array, list, set, map 이 뭔지 한번 봐야겠다.

@@ -1,10 +1,10 @@
-package day_2021_05_09;
+package year_2021.month_05.day_09;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
-public class P4_완주하지_못한_선수 {
+public class P8_완주하지_못한_선수 {
 
 	/**
 	 * 이 방법 되게 구리다! 라고 생각했는데 모범 답안이네. 슬슬 모범답안이 진짜 모범인지 의심이 되.

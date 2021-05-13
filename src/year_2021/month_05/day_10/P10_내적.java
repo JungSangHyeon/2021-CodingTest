@@ -1,9 +1,9 @@
-package day_2021_05_10;
+package year_2021.month_05.day_10;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
-public class P1_내적 {
+public class P10_내적 {
 
 	/**
 	 * 디게 쉽네

@@ -1,8 +1,8 @@
-package day_2021_05_08;
+package year_2021.month_05.day_08;
 
 import java.util.Arrays;
 
-public class P1_K번째수 {
+public class P3_K번째수 {
 
 	/**
 	 * 와! 모범 답안하고 완전 똑같이 풀었어!

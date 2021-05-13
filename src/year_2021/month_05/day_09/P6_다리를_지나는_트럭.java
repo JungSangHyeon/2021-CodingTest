@@ -1,10 +1,10 @@
-package day_2021_05_09;
+package year_2021.month_05.day_09;
 
 import java.util.ArrayList; 
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class P2_다리를_지나는_트럭 {
+public class P6_다리를_지나는_트럭 {
 
 	/**
 	 * 코드가 좀 길지 않나 싶었는데 모범 답안과 같다!

@@ -1,4 +1,4 @@
-package day_2021_05_11;
+package year_2021.month_05.day_11;
 
 import static java.util.stream.Collectors.counting;
 import static java.util.stream.Collectors.groupingBy;
@@ -11,7 +11,7 @@ import java.util.HashMap;
 import java.util.Map.Entry;
 import java.util.stream.Collectors;
 
-public class P1_위장 {
+public class P12_위장 {
 
 	/**
 	 * 문제 자체는 이지하게 풀었다.
