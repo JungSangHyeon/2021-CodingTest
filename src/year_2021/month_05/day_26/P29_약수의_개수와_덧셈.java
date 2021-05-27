@@ -1,4 +1,4 @@
-package year_2021.month_05.dya_26;
+package year_2021.month_05.day_26;
 
 public class P29_¾à¼öÀÇ_°³¼ö¿Í_µ¡¼À {
 
