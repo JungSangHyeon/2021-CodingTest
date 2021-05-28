@@ -3,7 +3,7 @@ package year_2021.month_05.day_28;
 public class P31_3진법_뒤집기 {
 
 	/**
-	 * 시험이라 바쁘지렁
+	 * 시험이라 바쁘지렁 2
 	 */
 	
 	public static void main(String[] args) {
