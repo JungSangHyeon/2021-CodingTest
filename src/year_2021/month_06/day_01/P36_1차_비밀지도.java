@@ -1,4 +1,4 @@
-package year_2021.month_06;
+package year_2021.month_06.day_01;
 
 public class P36_1차_비밀지도 {
 
