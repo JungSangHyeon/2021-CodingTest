@@ -3,7 +3,7 @@ package year_2021.month_06.day_06;
 import java.util.ArrayList;
 import java.util.Stack;
 
-public class P41_짝지어_제거하기 {
+public class P41_짝지어_제거하기 {//
 
 	/**
 	 * 지금 쯤 보니 여러 문제 풀어 보면서 다양한 방법을 사용할 수 있게 되었네
