@@ -4,7 +4,7 @@ public class ArrayStringMaker {
 
 	public static void main(String[] args) {
 
-		String target = "[[0,0,0,0,0],[0,0,1,0,3],[0,2,5,0,1],[4,2,4,4,2],[3,5,1,3,1]]	";
+		String target = "[[-20,15], [-14,-5], [-18,-13], [-5,-3]]";
 		System.out.println(target.replace("[", "{").replace("]", "}"));
 	}
 
