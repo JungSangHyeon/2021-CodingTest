@@ -1,4 +1,4 @@
-package year_2021.month_7.day_02;
+package year_2021.month_07.day_02;
 
 public class P69_x만큼_간격이_있는_n개의_숫자 {
 

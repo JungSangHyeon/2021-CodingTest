@@ -1,4 +1,4 @@
-package year_2021.month_7.day_01;
+package year_2021.month_07.day_01;
 
 import java.util.Scanner;
 
