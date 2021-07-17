@@ -1,4 +1,4 @@
-package year_2021.month_07.day_16;
+package year_2021.month_07.day_17;
 
 import java.util.Arrays;
 import java.util.Scanner;
