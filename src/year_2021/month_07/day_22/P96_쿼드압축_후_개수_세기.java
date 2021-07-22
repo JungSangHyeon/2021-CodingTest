@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class P96_쿼드압축_후_개수_세기 {
 
 	public static void main(String[] args) {
+		
 		System.out.println(Arrays.toString(solution(new int[][] { { 1, 1, 0, 0 }, { 1, 0, 0, 0 }, { 1, 0, 0, 1 }, { 1, 1, 1, 1 } })));
 	}
 
