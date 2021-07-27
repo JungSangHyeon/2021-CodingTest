@@ -8,6 +8,7 @@ import java.util.StringTokenizer;
 
 public class P102_BOJ2805_나무자르기 {
 	
+	
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st1 = new StringTokenizer(br.readLine());
