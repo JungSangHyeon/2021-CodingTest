@@ -1,4 +1,4 @@
-package year_2021.month_08;
+package year_2021.month_08.day_01;
 
 public class P111_다음_큰_숫자 {
 
