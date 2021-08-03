@@ -54,13 +54,3 @@ public class P114_게임_맵_최단거리 {
 	}
 
 }
-
-
-//for(boolean[] bool : passed) {
-//	for(boolean b : bool) {
-//		if(b)System.out.print("[O] ");
-//		else System.out.print("[  ] ");
-//	}
-//	System.out.println();
-//}
-//System.out.println();
