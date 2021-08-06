@@ -2,7 +2,7 @@ package year_2021.month_08.day_06;
 
 public class P123_2개_이하로_다른_비트 {
 
-	// 10점 개꿀
+	// 10점 개꿀!
 	
 	public static void main(String[] args) {
 		
