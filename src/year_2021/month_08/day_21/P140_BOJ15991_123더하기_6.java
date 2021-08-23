@@ -3,7 +3,7 @@ package year_2021.month_08.day_21;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class P140_BOJ15990_123더하기_6 {
+public class P140_BOJ15991_123더하기_6 {
 
     public static void main(String[] args) throws Exception {
         long[] dp = new long[100_001];
