@@ -1,8 +1,9 @@
-package year_2021.month_09;
+package year_2021.month_09.day_01;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 
 public class P151_BOJ2156_포도주_시식 {
 
@@ -16,11 +17,13 @@ public class P151_BOJ2156_포도주_시식 {
         memory[1] = podojuice[1];
         if(n>1) memory[2] = podojuice[1] + podojuice[2];
         for(int i=3; i<=n; i++){
+            System.out.println(i+", "+(memory[i-2]+ podojuice[i])+", "+(memory[i-3] + podojuice[i-1]+ podojuice[i])+", "+memory[i-1]);
             memory[i] = Math.max(memory[i-2], memory[i-3] + podojuice[i-1] ) + podojuice[i];
             memory[i] = Math.max(memory[i-1], memory[i]);
         }
 
         System.out.println(memory[n]);
+        System.out.println(Arrays.toString(memory));
     }
 
 }
