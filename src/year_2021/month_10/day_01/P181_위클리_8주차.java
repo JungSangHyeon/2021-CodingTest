@@ -1,4 +1,4 @@
-package year_2021.month_10;
+package year_2021.month_10.day_01;
 
 public class P181_위클리_8주차 {
 
