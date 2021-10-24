@@ -24,8 +24,8 @@ public class P202_BOJ3055_≈ª√‚ {
         while(isDochiAlive() && !isDochiArrive()) {
             waterPoints = spread(waterPoints, WATER);
             dochiPoints = spread(dochiPoints, DOCHI);
-            showMap();
             System.out.println(isDochiAlive()+", "+isDochiArrive());
+            showMap();
             move++;
         }
 

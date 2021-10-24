@@ -26,24 +26,6 @@ public class P200_BOJ7569_≈‰∏∂≈‰ {
             }
         }
 
-//        for(int[][] arr2 : tomatoes){
-//            for(int[] arr1 : arr2){
-//                System.out.println(Arrays.toString(arr1));
-//            }
-//            System.out.println();
-//        }
-
-//        for(int x = 0; x < tomatoes.length; x++){
-//            for(int y = 0; y < tomatoes[0].length; y++){
-//                for(int z = 0; z < tomatoes[0][0].length; z++){
-//                    if(tomatoes[x][y][z] == 1) points.add(new Point(x, y, z));
-//                }
-//            }
-//        }
-
-//        if(getValue(tomatoes, 0).size()==0){
-//            System.out.println(0);
-//        }else{
         ArrayList<Point> points = new ArrayList<>();
         points.addAll(getValue(tomatoes, 1));
         int repeat = -1;
