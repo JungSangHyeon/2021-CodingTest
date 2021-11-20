@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class P228_2206_벽부수고이동 {
+public class P228_BOJ2206_벽부수고이동 {
 
     private static Queue<Point> points;
     private static int[][] map;
