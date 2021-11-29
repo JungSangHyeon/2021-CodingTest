@@ -1,6 +1,4 @@
-package year_2021.month_11.day_30;
-
-import year_2021.month_11.day_29.P233_BOJ1991_트리순회;
+package year_2021.month_11.day_29;
 
 import java.io.BufferedReader;
 import java.io.IOException;
