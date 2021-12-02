@@ -1,4 +1,4 @@
-package year_2021.month_12;
+package year_2021.month_12.day_01;
 
 import java.awt.*;
 import java.io.BufferedReader;
