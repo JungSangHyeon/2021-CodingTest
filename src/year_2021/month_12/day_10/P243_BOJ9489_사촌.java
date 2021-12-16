@@ -1,7 +1,6 @@
-package year_2021.month_12.day_08;
+package year_2021.month_12.day_10;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
